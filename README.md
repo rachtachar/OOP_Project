@@ -1,15 +1,20 @@
 # OOP_Project
 
-PopTopGame
+# PopTopGame
 
-#Author:
+## Author:
 
  **ID: 66114540618
 
  **Name: Rachtachar Mahamad
 
-Technology: Pygame
+## Technology: Pygame
 
+## application description: คล้ายๆ popcat
+
+## Presentation:
+
+## Video:
 
 
 
