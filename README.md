@@ -19,15 +19,3 @@
 
 
 
-****
-README.md
--application title
--author:
-  *id: ---
-  *name: first last
--technology: [pygame/streamlit]
--application description
-
--prresentaition: [slide/canva] link
-*video:link [public/ubu]
-****
