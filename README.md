@@ -4,9 +4,9 @@ PopTopGame
 
 #Author:
 
- *ID: 66114540618
+ **ID: 66114540618
 
- *Name: Rachtachar Mahamad
+ **Name: Rachtachar Mahamad
 
 Technology: Pygame
 
