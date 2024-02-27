@@ -8,13 +8,13 @@
 
  **Name: Rachtachar Mahamad
 
-## Technology: Pygame
+## Technology: [Pygame]
 
 ## application description: คล้ายๆ popcat
 
-## Presentation:
+## Presentation: []
 
-## Video:
+## Video: []
 
 
 
