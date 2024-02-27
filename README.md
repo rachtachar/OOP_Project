@@ -1,8 +1,13 @@
 # OOP_Project
+
 PopTopGame
+
 #Author:
+
  *ID: 66114540618
+
  *Name: Rachtachar Mahamad
+
 Technology: Pygame
 
 
