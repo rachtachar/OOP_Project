@@ -38,6 +38,6 @@ background-image: repeating-linear-gradient(45deg, #FEECE2 0, #FEECE2 1px, #F7DE
 </style>
 """
 st.markdown(bg, unsafe_allow_html=True)
-st.title("DSSI Shop")
+st.title("DSSI66 Shop")
 add_product()
 show_products(st.session_state.products) 
