@@ -12,7 +12,7 @@
 
 ## application description: ทำโปรเจคในการเพิ่มสินค้าลงไป เพื่อให้แสดงผลในหน้าเว็บ
 
-## Presentation: [https://shorturl.at/knN58]
+## Presentation: [Canva] [https://shorturl.at/knN58]
 
 ## Video: []
 
