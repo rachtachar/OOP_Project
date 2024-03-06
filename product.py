@@ -25,6 +25,19 @@ def show_products(products):
         st.write(f"Link: {product['link']}")
         st.write("---------")
 
+bg = """
+<style>
+[data-testid="stAppViewContainer"]{
+background-color: #F7DED0;
+opacity: 0.8;
+background-size: 10px 10px;
+background-image: repeating-linear-gradient(45deg, #FEECE2 0, #FEECE2 1px, #F7DED0 0, #F7DED0 50%);
+}
+
+}
+</style>
+"""
+st.markdown(bg, unsafe_allow_html=True)
 st.title("DSSI Shop")
 add_product()
 show_products(st.session_state.products) 
