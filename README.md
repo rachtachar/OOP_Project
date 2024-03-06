@@ -8,9 +8,9 @@
 
  **Name: Rachtachar Mahamad
 
-## Technology: [Pygame]
+## Technology: [Streamlit]
 
-## application description: คล้ายๆ popcat
+## application description: ทำโปรเจคในการเพิ่มสินค้าลงไป เพื่อให้แสดงผลในหน้าเว็บ
 
 ## Presentation: []
 
