@@ -1,6 +1,6 @@
 # OOP_Project
 
-# PopTopGame
+# DSSI66 Shop
 
 ## Author:
 
