@@ -16,5 +16,5 @@ Project: DSSI66 Shop
 
 **Presentation:** [https://shorturl.at/knN58] [Canva] 
 
-**Video:** 
+**Video:** [https://youtu.be/WKFEY0Yomkk]
 ##
