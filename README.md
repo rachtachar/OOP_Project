@@ -14,7 +14,7 @@ Project: DSSI66 Shop
 
 **Application description:** ทำโปรเจคในการเพิ่มสินค้าลงไป เพื่อให้แสดงผลในหน้าเว็บ
 
-**Presentation:** [https://shorturl.at/knN58] [Canva] 
+**Presentation:** [Canva](https://shorturl.at/knN58) 
 
-**Video:** [https://youtu.be/WKFEY0Yomkk]
+**Video:** [Youtube](https://youtu.be/WKFEY0Yomkk)
 ##
