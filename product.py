@@ -28,16 +28,15 @@ def show_products(products):                    #เขียนฟังก์�
 bg = """                                       
 <style>
 [data-testid="stAppViewContainer"]{
-background-color: #F7DED0;
-opacity: 0.8;
-background-size: 10px 10px;
-background-image: repeating-linear-gradient(45deg, #FEECE2 0, #FEECE2 1px, #F7DED0 0, #F7DED0 50%);
+background-image: url("https://images-ext-2.discordapp.net/external/dFZEvcAzhxq_572Xbn0lvMCHWXhn-8dwJTUk8pwfBlM/https/img.freepik.com/free-vector/blue-curve-background_53876-113112.jpg?format=webp&width=782&height=521");
+background-size: cover;
 }
 
 }
 </style>
 """                                       
 st.markdown(bg, unsafe_allow_html=True)         #กำหนด BG
+
 st.title(f":black[DSSI66 Shop]")                        
 add_product()
 show_products(st.session_state.products) 
